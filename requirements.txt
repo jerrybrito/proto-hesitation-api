@@ -1,0 +1,2 @@
+# Requires: pseudo-delay
+# (Not available on PyPI)
